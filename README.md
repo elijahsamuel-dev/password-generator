@@ -6,6 +6,7 @@ A simple Python script that generates random passwords based on user-defined len
 - User chooses password length
 - Generates a random password
 - Uses Python's built-in `random` module
+- Includes numbers and symbols
 
 ## Purpose
 Beginner project to practice Python basics and logic building.
