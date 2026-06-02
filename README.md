@@ -1,12 +1,13 @@
-# Password Generator
+# Password Generator (Python)
 
-A simple Python script that generates random passwords based on user-defined length.
+A simple Python command-line tool that generates random passwords based on user-defined length.
 
 ## Features
-- User chooses password length
-- Generates a random password
-- Uses Python's built-in `random` module
-- Includes numbers and symbols
+- Input validation for password length
+- Generates random passwords using letters, numbers, and symbols
+- Simple interactive CLI
 
-## Purpose
-Beginner project to practice Python basics and logic building.
+## How to run
+
+```bash
+python main.py
