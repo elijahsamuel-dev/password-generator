@@ -1,6 +1,4 @@
-# COMING SOON
-
-## Password Generator
+# Password Generator
 
 A simple Python script that generates random passwords based on user-defined length.
 
